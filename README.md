@@ -19,13 +19,13 @@ Siga estas instruções para configurar e executar o projeto localmente em seu a
 1. Clone o repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
+    git clone https://github.com/feliperogerio1/csharp-oop.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd seu-projeto
+    cd nome-da-pasta
     ```
 
 ### Executando o Projeto
