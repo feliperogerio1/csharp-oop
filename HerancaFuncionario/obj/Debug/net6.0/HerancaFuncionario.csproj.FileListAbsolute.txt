@@ -1,0 +1,15 @@
+D:\POO\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.exe
+D:\POO\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.deps.json
+D:\POO\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.runtimeconfig.json
+D:\POO\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.dll
+D:\POO\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.pdb
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.csproj.AssemblyReference.cache
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.AssemblyInfoInputs.cache
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.AssemblyInfo.cs
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.csproj.CoreCompileInputs.cache
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.dll
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\refint\HerancaFuncionario.dll
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.pdb
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.genruntimeconfig.cache
+D:\POO\HerancaFuncionario\obj\Debug\net6.0\ref\HerancaFuncionario.dll

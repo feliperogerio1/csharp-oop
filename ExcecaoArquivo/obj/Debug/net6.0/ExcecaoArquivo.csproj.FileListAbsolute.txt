@@ -1,0 +1,15 @@
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ExcecaoArquivo.csproj.AssemblyReference.cache
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ExcecaoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ExcecaoArquivo.AssemblyInfoInputs.cache
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ExcecaoArquivo.AssemblyInfo.cs
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ExcecaoArquivo.csproj.CoreCompileInputs.cache
+D:\POO\ExcecaoArquivo\bin\Debug\net6.0\ExcecaoArquivo.exe
+D:\POO\ExcecaoArquivo\bin\Debug\net6.0\ExcecaoArquivo.deps.json
+D:\POO\ExcecaoArquivo\bin\Debug\net6.0\ExcecaoArquivo.runtimeconfig.json
+D:\POO\ExcecaoArquivo\bin\Debug\net6.0\ExcecaoArquivo.dll
+D:\POO\ExcecaoArquivo\bin\Debug\net6.0\ExcecaoArquivo.pdb
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ExcecaoArquivo.dll
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\refint\ExcecaoArquivo.dll
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ExcecaoArquivo.pdb
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ExcecaoArquivo.genruntimeconfig.cache
+D:\POO\ExcecaoArquivo\obj\Debug\net6.0\ref\ExcecaoArquivo.dll

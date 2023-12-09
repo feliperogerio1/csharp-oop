@@ -1,0 +1,15 @@
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.csproj.AssemblyReference.cache
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.AssemblyInfo.cs
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.exe
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.deps.json
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.runtimeconfig.json
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.dll
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.pdb
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.dll
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\refint\ConstrutorAluno.dll
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.pdb
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.genruntimeconfig.cache
+C:\Users\xfeli\OneDrive\Área de Trabalho\ConstrutorAluno\obj\Debug\net6.0\ref\ConstrutorAluno.dll

@@ -1,0 +1,15 @@
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.csproj.AssemblyReference.cache
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.AssemblyInfoInputs.cache
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.AssemblyInfo.cs
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.csproj.CoreCompileInputs.cache
+D:\POO\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.exe
+D:\POO\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.deps.json
+D:\POO\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.runtimeconfig.json
+D:\POO\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.dll
+D:\POO\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.pdb
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.dll
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\refint\InterfaceTributavel.dll
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.pdb
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.genruntimeconfig.cache
+D:\POO\InterfaceTributavel\obj\Debug\net6.0\ref\InterfaceTributavel.dll

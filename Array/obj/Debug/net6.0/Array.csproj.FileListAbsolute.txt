@@ -1,0 +1,15 @@
+D:\POO\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\POO\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\POO\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\POO\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\POO\Array\bin\Debug\net6.0\Array.exe
+D:\POO\Array\bin\Debug\net6.0\Array.deps.json
+D:\POO\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\POO\Array\bin\Debug\net6.0\Array.dll
+D:\POO\Array\bin\Debug\net6.0\Array.pdb
+D:\POO\Array\obj\Debug\net6.0\Array.dll
+D:\POO\Array\obj\Debug\net6.0\refint\Array.dll
+D:\POO\Array\obj\Debug\net6.0\Array.pdb
+D:\POO\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\POO\Array\obj\Debug\net6.0\ref\Array.dll

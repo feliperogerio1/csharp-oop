@@ -1,0 +1,15 @@
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.csproj.AssemblyReference.cache
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+D:\POO\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.exe
+D:\POO\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.deps.json
+D:\POO\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.runtimeconfig.json
+D:\POO\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.dll
+D:\POO\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.pdb
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.dll
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\refint\EncapsulamentoFuncionario.dll
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.pdb
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+D:\POO\EncapsulamentoFuncionario\obj\Debug\net6.0\ref\EncapsulamentoFuncionario.dll

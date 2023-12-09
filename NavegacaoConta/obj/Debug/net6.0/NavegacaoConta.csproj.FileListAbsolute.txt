@@ -1,0 +1,15 @@
+D:\POO\NavegacaoConta\bin\Debug\net6.0\NavegacaoConta.exe
+D:\POO\NavegacaoConta\bin\Debug\net6.0\NavegacaoConta.deps.json
+D:\POO\NavegacaoConta\bin\Debug\net6.0\NavegacaoConta.runtimeconfig.json
+D:\POO\NavegacaoConta\bin\Debug\net6.0\NavegacaoConta.dll
+D:\POO\NavegacaoConta\bin\Debug\net6.0\NavegacaoConta.pdb
+D:\POO\NavegacaoConta\obj\Debug\net6.0\NavegacaoConta.csproj.AssemblyReference.cache
+D:\POO\NavegacaoConta\obj\Debug\net6.0\NavegacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\NavegacaoConta\obj\Debug\net6.0\NavegacaoConta.AssemblyInfoInputs.cache
+D:\POO\NavegacaoConta\obj\Debug\net6.0\NavegacaoConta.AssemblyInfo.cs
+D:\POO\NavegacaoConta\obj\Debug\net6.0\NavegacaoConta.csproj.CoreCompileInputs.cache
+D:\POO\NavegacaoConta\obj\Debug\net6.0\NavegacaoConta.dll
+D:\POO\NavegacaoConta\obj\Debug\net6.0\refint\NavegacaoConta.dll
+D:\POO\NavegacaoConta\obj\Debug\net6.0\NavegacaoConta.pdb
+D:\POO\NavegacaoConta\obj\Debug\net6.0\NavegacaoConta.genruntimeconfig.cache
+D:\POO\NavegacaoConta\obj\Debug\net6.0\ref\NavegacaoConta.dll

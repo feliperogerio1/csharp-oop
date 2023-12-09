@@ -1,0 +1,15 @@
+D:\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.exe
+D:\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.deps.json
+D:\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.runtimeconfig.json
+D:\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.dll
+D:\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.pdb
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.csproj.AssemblyReference.cache
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.AssemblyInfoInputs.cache
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.AssemblyInfo.cs
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.csproj.CoreCompileInputs.cache
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.dll
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\refint\TrabalhoHerancaComposicaoVenda.dll
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.pdb
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.genruntimeconfig.cache
+D:\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\ref\TrabalhoHerancaComposicaoVenda.dll

@@ -1,0 +1,15 @@
+D:\POO\FuncionarioAbstrato\bin\Debug\net6.0\FuncionarioAbstrato.exe
+D:\POO\FuncionarioAbstrato\bin\Debug\net6.0\FuncionarioAbstrato.deps.json
+D:\POO\FuncionarioAbstrato\bin\Debug\net6.0\FuncionarioAbstrato.runtimeconfig.json
+D:\POO\FuncionarioAbstrato\bin\Debug\net6.0\FuncionarioAbstrato.dll
+D:\POO\FuncionarioAbstrato\bin\Debug\net6.0\FuncionarioAbstrato.pdb
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\FuncionarioAbstrato.csproj.AssemblyReference.cache
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\FuncionarioAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\FuncionarioAbstrato.AssemblyInfoInputs.cache
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\FuncionarioAbstrato.AssemblyInfo.cs
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\FuncionarioAbstrato.csproj.CoreCompileInputs.cache
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\FuncionarioAbstrato.dll
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\refint\FuncionarioAbstrato.dll
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\FuncionarioAbstrato.pdb
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\FuncionarioAbstrato.genruntimeconfig.cache
+D:\POO\FuncionarioAbstrato\obj\Debug\net6.0\ref\FuncionarioAbstrato.dll

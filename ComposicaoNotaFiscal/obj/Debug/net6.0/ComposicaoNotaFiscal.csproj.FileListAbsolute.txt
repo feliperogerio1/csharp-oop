@@ -1,0 +1,15 @@
+D:\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.exe
+D:\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.deps.json
+D:\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.runtimeconfig.json
+D:\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.dll
+D:\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.pdb
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.csproj.AssemblyReference.cache
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.AssemblyInfo.cs
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.dll
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\refint\ComposicaoNotaFiscal.dll
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.pdb
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.genruntimeconfig.cache
+D:\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ref\ComposicaoNotaFiscal.dll
